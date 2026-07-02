@@ -3,7 +3,9 @@ Repositorio de prácticas
 
 ## Descripción
 
-Este repositorio contiene las prácticas realizadas durante la cursada de la materia Diseño y Programación en Bases de Datos Oracle. El objetivo es aplicar de forma progresiva conceptos de bases de datos relacionales, SQL y PL/SQL utilizando Oracle Database.
+Este repositorio contiene las prácticas realizadas durante la cursada de la materia Diseño y Programación en Bases de Datos Oracle, dictada en el marco del programa conjunto entre CDAC y UNAHUR.
+
+El objetivo es aplicar de forma progresiva conceptos de bases de datos relacionales, SQL y PL/SQL utilizando Oracle Database.
 
 ## Contenidos
 
