@@ -20,18 +20,18 @@ El objetivo es aplicar de forma progresiva conceptos de bases de datos relaciona
 
 ## Estructura
 
-oracle-practicas/  
-├── clase01_modelado/  
-├── clase02_normalizacion/  
-├── clase03_sql/  
-├── clase04_sql_avanzado/  
-├── clase05_funciones_sql/  
-├── clase06_objetos_bd/  
-├── clase07_plsql/  
-├── clase08_control/  
-├── clase09_excepciones_cursores/  
-├── clase10_triggers_packages/  
-└── clase11_jobs/
+CURSO-ORACLE-SQL-PL-SQL/
+│
+├── clase03_sql_basico_consultas_joins_practica.sql
+├── clase04_sql_avanzado_joins_set_operations.sql
+├── clase05_funciones_sql_basico.sql
+├── clase06_subqueries_joins_aggregations.sql
+├── clase07_plsql_basico_procedimientos_funciones.sql
+├── clase08_plsql_control_calculadora_y_procesamiento_texto.sql
+├── clase09_plsql_excepciones_cursores_basico.sql
+├── clase10_plsql_cursores_explicitos.sql
+├── clase11_plsql_triggers_auditoria_y_secuencias.sql
+└── README.md
 
 ## Tecnologías utilizadas
 
