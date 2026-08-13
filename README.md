@@ -18,12 +18,12 @@ El objetivo es aplicar de forma progresiva conceptos de bases de datos relaciona
 - Triggers y packages
 - Jobs y transacciones autónomas
 
-## Estructura
+## 📁 Estructura del Repositorio
 
-CURSO-ORACLE-SQL-PL-SQL/
-│
+```text
+Curso-Oracle-SQL-PL-SQL/
 ├── clase03_sql_basico_consultas_joins_practica.sql
-├── clase04_sql_avanzado_joins_set_operations.sql
+├── clase04_sql_avanzado_joins_set_operaciones.sql
 ├── clase05_funciones_sql_basico.sql
 ├── clase06_subqueries_joins_aggregations.sql
 ├── clase07_plsql_basico_procedimientos_funciones.sql
